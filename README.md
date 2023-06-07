@@ -216,12 +216,6 @@ $$
 =1+\sum_i2C_i \Phi_i(\boldsymbol{R}-\boldsymbol{R}_i)\sin(\frac{E_i}{4E_0}kz)\exp\{-i[\frac{\pi}{2}+\frac{E_i}{4E_0}kz]\}
 $$
 
-
-$$
-
-$$
-
-
 #### S-state model
 
 *reference: The S-state model: a work horse for HRTEM by P. Geuens, D. Van Dyck*
@@ -310,14 +304,8 @@ $$
 \psi(t)=\varphi(t)+W_p\exp(\hat{H}(t-T))\varphi(T)
 $$
 
-
 $$
 =\varphi(0)\exp(\hat{H}t)+W_p\varphi(T)\exp(\hat{H}(t-T))
-$$
-
-
-$$
-
 $$
 
 The influence of vertical direction is included in the term $W_p\varphi(T)\exp(\hat{H}(t-T))$, which can be confirmed by the experiments.
